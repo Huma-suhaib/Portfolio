@@ -4,11 +4,11 @@
 <img align="right" width="400" alt="CodingIsFun" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huma-suhaib&label=Profile%20views&color=0e75b6&style=flat" alt="huma-suhaib" /> </p>
 
-- 🔭 I’m currently working on **Metaverse project and a research paper.**
+- 🔭 I’m currently working on some frontend web development projects**
 
 - 🌱 I’m currently learning **Backend development 😎**
 
-- 💬 Ask me about **social welfare, solutions to real life problems, nature and its beauty and coding problems.**
+- 💬 Ask me about **social welfare, solutions to real life problems, how to boost productivity and coding problems.**
 
 - 📫 How to reach me **humasuhaib786@gmail.com**
 
