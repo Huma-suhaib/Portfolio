@@ -18,8 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/humasuhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="humasuhaib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/huma suhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huma suhaib" height="30" width="40" /></a>
-<a href="https://instagram.com/huma_suhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huma_suhaib" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/huma_suhaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huma_suhaib" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/humasuhq1et/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huma_suhaib" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
